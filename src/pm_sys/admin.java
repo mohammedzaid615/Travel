@@ -415,7 +415,7 @@ public class admin extends javax.swing.JFrame {
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
-        pharmacy_management PM1= new pharmacy_management();
+        travel_management PM1= new travel_management();
         setVisible(false);
         PM1.setVisible(true);
     }//GEN-LAST:event_jButton4ActionPerformed
